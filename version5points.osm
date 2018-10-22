@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.6.1 (1962 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="44.8396050" minlon="-0.5739640" maxlat="44.8411610" maxlon="-0.5705080"/>
+ 
+ 
+ <node id="E" visible="true" version="3" changeset="14087494" timestamp="2012-11-29T15:02:23Z" user="Quentin" uid="302591" lat="4" lon="4">
+   <tag k="created_by" v="Quentin"/>
+   <tag k="name" v="E"/>
+ </node>
+ 
+ <node id="C" visible="true" version="5" changeset="62244823" timestamp="2018-09-03T11:45:57Z" user="Quentin" uid="302591" lat="4" lon="0">
+   <tag k="created_by" v="Quentin"/>
+   <tag k="name" v="C"/>
+ </node>
+ 
+ <node id="A" visible="true" version="5" changeset="14087150" timestamp="2012-11-29T14:32:25Z" user="Quentin" uid="302591" lat="0" lon="4">
+   <tag k="created_by" v="Quentin"/>
+  <tag k="name" v="A"/>
+ </node>
+ 
+ <node id="B" visible="true" version="4" changeset="14086488" timestamp="2012-11-29T13:32:26Z" user="Quentin" uid="302591" lat="2" lon="2">
+   <tag k="created_by" v="Quentin"/>
+   <tag k="name" v="B"/>
+ </node>
+ 
+ <node id="D" visible="true" version="7" changeset="5915394" timestamp="2010-09-29T20:38:54Z" user="Quentin" uid="53048" lat="0" lon="0">
+  <tag k="created_by" v="Quentin"/>
+  <tag k="name" v="D"/>
+ </node>
+
+
+  <way id="5117192" visible="true" version="20" changeset="49806466" timestamp="2017-06-25T05:36:51Z" user="Ludovic Drouard" uid="1151930">
+  <nd ref="A"/>
+  <nd ref="C"/>
+  <tag k="name" v="A-C"/>
+ </way>
+ <way id="5117193" visible="true" version="15" changeset="49806466" timestamp="2017-06-25T05:36:59Z" user="Ludovic Drouard" uid="1151930">
+  <nd ref="D"/>
+  <nd ref="E"/>
+  <tag k="name" v="E-D"/>
+  <tag k="p" v="E-D"/>
+ </way>
